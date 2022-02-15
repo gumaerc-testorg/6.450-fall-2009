@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on detection for random vectors and processes, and
   binary detection.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-450-principles-of-digital-communication-i-fall-2009/5673a00e9bbbf61d504406a86fad87d0_MIT6_450F09_slide17.pdf
+file: /media/courses/6-450-principles-of-digital-communication-i-fall-2009/5673a00e9bbbf61d504406a86fad87d0_MIT6_450F09_slide17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Detection for random vectors and processes
 uid: 5673a00e-9bbb-f61d-5044-06a86fad87d0
