@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Doppler spread, time spread, coherence time, and coherence frequency
 uid: 0e011e7f-6ed6-f84c-02dc-067cf7f03872

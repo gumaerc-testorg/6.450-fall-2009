@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Discrete-time Fourier transforms and sampling theorem
 uid: 22f00b51-0092-d230-0573-7475a41cfc49

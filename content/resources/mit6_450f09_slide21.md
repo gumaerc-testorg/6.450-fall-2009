@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Discrete-time baseband models for wireless channels
 uid: 27241255-c9b2-e18d-12a4-c1d3b2160d23

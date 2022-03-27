@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Memory-less sources, prefix free codes, and entropy
 uid: f57623d4-0569-84d1-8685-fdb37cea01d6

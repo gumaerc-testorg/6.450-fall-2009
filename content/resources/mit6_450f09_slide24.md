@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: ase study - Code Division Multiple Access (CDMA)
 uid: 2a4724cf-4b4c-0721-ec77-a6cccc5ff9e3

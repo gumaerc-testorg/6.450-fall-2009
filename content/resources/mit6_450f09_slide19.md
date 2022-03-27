@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Review of theorem of irrelevance and introduction to wireless communication
 uid: afcc2817-d595-5619-7b38-9e3b354dbee0

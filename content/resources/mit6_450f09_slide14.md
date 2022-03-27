@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Jointly Gaussian random vectors and processes and white Gaussian noise (WGN)
 uid: 2b7073f0-a913-ce9c-119a-23f1ab3658bd

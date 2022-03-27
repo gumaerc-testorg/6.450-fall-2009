@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Markov sources and Lempel-Ziv universal codes
 uid: 0db786a7-95d4-c9d1-42e6-95f3ca9a8a44

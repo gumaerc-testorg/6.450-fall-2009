@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Theorem of irrelevance, M-ary detection, and coding
 uid: 52930c83-8ab6-1424-a41c-d4b5ef131e5a

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Entropy and asymptotic equipartition property
 uid: 70f7c04b-a9eb-060c-de2c-7ca006ddedfe

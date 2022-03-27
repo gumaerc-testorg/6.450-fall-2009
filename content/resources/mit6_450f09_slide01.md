@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: 'Introduction: A layered view of digital communication'
 uid: b114f414-b4a8-cf52-7ec6-87bbf5704988
