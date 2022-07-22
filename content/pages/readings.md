@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required text for the course, a
+  list of reference texts, and papers on developments in communication theory.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 393f7319-afd7-8f2e-9b39-7e1cc865a1e2
 ---
@@ -54,4 +59,4 @@ Papers
 
 The following paper by Shannon laid the groundwork for developments in communication theory:
 
-Shannon, Claude E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Mathematical Theory of Communication. (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)" _The Bell System Technical Journal_ 27 (July/October 1948): 379-423 and 623-656.
+Shannon, Claude E. ["A Mathematical Theory of Communication. (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)" _The Bell System Technical Journal_ 27 (July/October 1948): 379-423 and 623-656.

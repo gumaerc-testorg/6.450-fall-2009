@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 17c4f609-ad9a-de98-62f0-7292d27a9ad8
 ---
@@ -28,7 +32,7 @@ PROBLEMS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_450f09_pset01))
+({{% resource_link 4965ba62-ed26-47c6-58da-79887036d93e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
