@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/2a4724cf4b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ase study - Code Division Multiple Access (CDMA)
 uid: 2a4724cf-4b4c-0721-ec77-a6cccc5ff9e3
 ---
 Lecture presentation on channel measurement, Pseudonoise (PN) probing signals, rake receivers, and Code Division Multiple Access (CDMA).
-

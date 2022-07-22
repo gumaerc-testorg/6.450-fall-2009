@@ -7,6 +7,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/afcc2817d59
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Review of theorem of irrelevance and introduction to wireless communicati
 uid: afcc2817-d595-5619-7b38-9e3b354dbee0
 ---
 Lecture presentation on the theorem of irrelevance, orthogonal and simplex codes, bi-orthogonal code by Hadamard matrix, convolutional encoding, and an introduction to wireless communication.
-

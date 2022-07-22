@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/4a64319e078
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Random processes
 uid: 4a64319e-0788-a4c0-732b-9cb8e5efc944
 ---
 Lecture presentation on random processes, Nyquist criterion, frequency translation (PAM and QAM), additive noise, and Gaussian variables.
-

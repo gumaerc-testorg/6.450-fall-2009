@@ -7,6 +7,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/958bce26402
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Detection for flat Rayleigh fading and incoherent channels, and Rake rece
 uid: 958bce26-4029-845a-e718-b173f7c700f5
 ---
 Lecture presentation on detection for flat Rayleigh fading and incoherent channels, diversity, channel measurement, simple probing signals, pseudonoise (PN) probing signals, and Rake receivers.
-

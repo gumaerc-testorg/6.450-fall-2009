@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/5673a00e9bb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Detection for random vectors and processes
 uid: 5673a00e-9bbb-f61d-5044-06a86fad87d0
 ---
 Lecture presentation on detection for random vectors and processes, and binary detection.
-

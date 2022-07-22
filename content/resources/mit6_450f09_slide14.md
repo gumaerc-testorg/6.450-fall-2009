@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/2b7073f0a91
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Jointly Gaussian random vectors and processes and white Gaussian noise (W
 uid: 2b7073f0-a913-ce9c-119a-23f1ab3658bd
 ---
 Lecture presentation on jointly Gaussian random vectors and processes, and white Gaussian noise (WGN).
-

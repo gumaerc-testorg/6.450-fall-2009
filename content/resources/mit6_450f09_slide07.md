@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/3ae0b896944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Fourier series and Fourier transforms
 uid: 3ae0b896-944a-6db0-6caa-b5ecbe15a66f
 ---
 Lecture presentation on measurable functions, converting an analog source to a bit stream, Fourier series, and Fourier transforms.
-

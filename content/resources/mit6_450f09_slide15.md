@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/78913fc1813
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Linear functionals and filtering of random processes
 uid: 78913fc1-8137-847b-cb7f-5093e980172f
 ---
 Lecture presentation on linear functionals and filtering of random processes, Gaussian processes, stationary random processes, detection, and binary detection.
-

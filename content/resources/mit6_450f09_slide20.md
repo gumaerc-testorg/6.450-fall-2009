@@ -5,6 +5,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/a1803ccda7e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to wireless communication (cont.)
 uid: a1803ccd-a7e4-b459-2faf-3e530ac53161
 ---
 Lecture presentation with an introduction to wireless communication.
-

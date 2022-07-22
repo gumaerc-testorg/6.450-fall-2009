@@ -7,6 +7,7 @@ file: /courses/6-450-principles-of-digital-communication-i-fall-2009/22f00b51009
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Discrete-time Fourier transforms and sampling theorem
 uid: 22f00b51-0092-d230-0573-7475a41cfc49
 ---
 Lecture presentation on functions not limited in time, square integrable functions, Fourier transforms, the discrete-time Fourier transform (DTFT), and the sampling theorem.
-
