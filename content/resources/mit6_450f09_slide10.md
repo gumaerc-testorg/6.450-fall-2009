@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on degrees of freedom, orthonormal expansions, aliasing,
   vector space, and inner product spaces.
 file: /courses/6-450-principles-of-digital-communication-i-fall-2009/b17b9c62717e2a4a02395556f1170d0d_MIT6_450F09_slide10.pdf
+file_size: 152233
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
