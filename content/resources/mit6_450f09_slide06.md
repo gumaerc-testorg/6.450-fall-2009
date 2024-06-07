@@ -4,6 +4,7 @@ description: Lecture presentation on quantization, high-rate quantizers, wavefor
   encoding, the Lempel-Ziv algorithm, scalar quantization, vector quantization, entropy-coded
   quantization, and a uniform scalar high-rate quantizer.
 file: /courses/6-450-principles-of-digital-communication-i-fall-2009/abab650d993d533a10abfbfff370285a_MIT6_450F09_slide06.pdf
+file_size: 144750
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

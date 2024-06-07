@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on Markov chains, Markov sources, conditional entropy,
   Lempel-Ziv universal codes, and quantization.
 file: /courses/6-450-principles-of-digital-communication-i-fall-2009/0db786a795d4c9d142e695f3ca9a8a44_MIT6_450F09_slide05.pdf
+file_size: 189598
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
