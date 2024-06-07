@@ -4,6 +4,7 @@ description: Lecture presentation on inner product spaces, vector subspaces, dim
   the projection theorem, Gram-Schmidt orthonormalization, channel encoding and decoding,
   and pulse amplitude modulation (PAM).
 file: /courses/6-450-principles-of-digital-communication-i-fall-2009/94c67357fdafcfae266bacd714146cdf_MIT6_450F09_slide11.pdf
+file_size: 186440
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

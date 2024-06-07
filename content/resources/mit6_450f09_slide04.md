@@ -4,6 +4,7 @@ description: "Lecture presentation on entropy, the symptotic equipartition prope
   \ fixed-to-variable pre\uFB01x-free codes, the weak law of large numbers (WLLN),\
   \ the asymptotic equipartition property (AEP), and Markov sources."
 file: /courses/6-450-principles-of-digital-communication-i-fall-2009/70f7c04ba9eb060cde2c7ca006ddedfe_MIT6_450F09_slide04.pdf
+file_size: 208466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

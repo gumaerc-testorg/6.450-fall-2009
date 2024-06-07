@@ -59,4 +59,4 @@ Papers
 
 The following paper by Shannon laid the groundwork for developments in communication theory:
 
-Shannon, Claude E. {{% resource_link "16436211-d95d-4784-95f2-fc80ef79f491" "\"A Mathematical Theory of Communication. (PDF)" %}}" _The Bell System Technical Journal_ 27 (July/October 1948): 379-423 and 623-656.
+Shannon, Claude E. ["A Mathematical Theory of Communication. (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)" _The Bell System Technical Journal_ 27 (July/October 1948): 379-423 and 623-656.
