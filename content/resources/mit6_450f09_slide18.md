@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the theorem of irrelevance, binary detection
   with vector observation in independent identical distribution Gaussian noise, QAM
   detection, and detection for orthogonal signal sets.
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/52930c838ab61424a41cd4b5ef131e5a_MIT6_450F09_slide18.pdf
+file: /courses/6-450-principles-of-digital-communication-i-fall-2009/52930c838ab61424a41cd4b5ef131e5a_MIT6_450F09_slide18.pdf
 file_size: 114808
 file_type: application/pdf
 learning_resource_types:
