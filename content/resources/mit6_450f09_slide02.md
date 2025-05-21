@@ -5,7 +5,7 @@ description: Lecture presentation on discrete source encoding, reasons for binar
   source codes, variable length source codes, unique decodability, prefix-free codes,
   the Kraft inequality, discrete memoryless sources, prefix-free codes for DMS, and
   entropy bounds.
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/1811fc78b310cb16f387254cb2efca5e_MIT6_450F09_slide02.pdf
+file: /courses/6-450-principles-of-digital-communication-i-fall-2009/1811fc78b310cb16f387254cb2efca5e_MIT6_450F09_slide02.pdf
 file_size: 226796
 file_type: application/pdf
 learning_resource_types:
