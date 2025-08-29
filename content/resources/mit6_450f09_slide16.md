@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on square integrable functions, Fourier transforms,
   the discrete-time Fourier transform, the projection theorem, linear filtering processes,
   detection, and binary detection.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/16db0f6c9f3241cc6fa4d0a27b577803_MIT6_450F09_slide16.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/16db0f6c9f3241cc6fa4d0a27b577803_MIT6_450F09_slide16.pdf
 file_size: 234097
 file_type: application/pdf
 learning_resource_types:

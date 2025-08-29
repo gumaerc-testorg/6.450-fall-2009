@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the theorem of irrelevance, orthogonal and simplex
   codes, bi-orthogonal code by Hadamard matrix, convolutional encoding, and an introduction
   to wireless communication.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/afcc2817d59556197b389e3b354dbee0_MIT6_450F09_slide19.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/afcc2817d59556197b389e3b354dbee0_MIT6_450F09_slide19.pdf
 file_size: 182356
 file_type: application/pdf
 learning_resource_types:

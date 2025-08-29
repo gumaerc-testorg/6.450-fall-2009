@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on linear functionals and filtering of random processes,
   Gaussian processes, stationary random processes, detection, and binary detection.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/78913fc18137847bcb7f5093e980172f_MIT6_450F09_slide15.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/78913fc18137847bcb7f5093e980172f_MIT6_450F09_slide15.pdf
 file_size: 180217
 file_type: application/pdf
 learning_resource_types:
