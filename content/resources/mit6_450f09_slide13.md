@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on random processes, Nyquist criterion, frequency
   translation (PAM and QAM), additive noise, and Gaussian variables.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/4a64319e0788a4c0732b9cb8e5efc944_MIT6_450F09_slide13.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/4a64319e0788a4c0732b9cb8e5efc944_MIT6_450F09_slide13.pdf
 file_size: 212721
 file_type: application/pdf
 learning_resource_types:
