@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on discrete-time baseband models for wireless channels,
   the multipath wireless model, baseband system functions, the discrete-time baseband
   model.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/27241255c9b2e18d12a4c1d3b2160d23_MIT6_450F09_slide21.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/27241255c9b2e18d12a4c1d3b2160d23_MIT6_450F09_slide21.pdf
 file_size: 98116
 file_type: application/pdf
 learning_resource_types:

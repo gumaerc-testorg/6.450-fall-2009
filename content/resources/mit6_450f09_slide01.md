@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory lecture presentation on the principles of digital communication.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/b114f414b4a8cf527ec687bbf5704988_MIT6_450F09_slide01.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/b114f414b4a8cf527ec687bbf5704988_MIT6_450F09_slide01.pdf
 file_size: 119726
 file_type: application/pdf
 learning_resource_types:

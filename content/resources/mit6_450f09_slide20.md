@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation with an introduction to wireless communication.
-file: /courses/6-450-principles-of-digital-communication-i-fall-2009/a1803ccda7e4b4592faf3e530ac53161_MIT6_450F09_slide20.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communication-i-fall-2009/a1803ccda7e4b4592faf3e530ac53161_MIT6_450F09_slide20.pdf
 file_size: 122365
 file_type: application/pdf
 learning_resource_types:
